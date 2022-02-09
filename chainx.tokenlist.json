@@ -1,6 +1,6 @@
 {
   "name": "Compound",
-  "logoURI": "https://github.com/chainx-org/so-swap-frontend/blob/v2/pre/public/icon_soswap.svg",
+  "logoURI": "https://github.com/chainx-org/token-list/blob/main/assets/icon_soswap.svg",
   "keywords": [
     "compound",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Bitcoin signet",
       "symbol": "X-SBTC",
       "decimals": 18,
-      "logoURI": "https://github.com/chainx-org/so-swap-frontend/blob/v2/pre/public/icon_sbtc.svg"
+      "logoURI": "https://github.com/chainx-org/token-list/blob/main/assets/icon_sbtc.svg"
     }
   ],
   "version": {
