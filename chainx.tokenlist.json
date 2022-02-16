@@ -15,6 +15,14 @@
       "symbol": "X-SBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_sbtc.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x4107c4f5bec80196d0F2F975473984Fd40a7214D",
+      "name": "Sherpax",
+      "symbol": "MINI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
     }
   ],
   "version": {
