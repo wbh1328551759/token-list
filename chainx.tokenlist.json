@@ -10,6 +10,7 @@
     {
       "chainId": 1506,
       "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
+      "assetId": 1,
       "name": "SherpaX",
       "symbol": "sBTC",
       "decimals": 8,
@@ -18,6 +19,7 @@
     {
       "chainId": 1506,
       "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
+      "assetId": 3,
       "name": "SherpaX",
       "symbol": "MINI",
       "decimals": 8,
