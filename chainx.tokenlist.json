@@ -10,7 +10,7 @@
     {
       "chainId": 1506,
       "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
-      "name": "Bitcoin signet",
+      "name": "SherpaX",
       "symbol": "sBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_sbtc.svg"
@@ -18,7 +18,7 @@
     {
       "chainId": 1506,
       "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
-      "name": "Sherpax",
+      "name": "SherpaX",
       "symbol": "MINI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
