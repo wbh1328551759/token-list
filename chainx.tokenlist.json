@@ -24,6 +24,15 @@
       "symbol": "MINI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0xa10AF02fD7eD3B5FF107B57bB1068a3f54BcAE92",
+      "assetId": 2,
+      "name": "SherpaX",
+      "symbol": "PCX",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_pcx.svg"
     }
   ],
   "version": {
