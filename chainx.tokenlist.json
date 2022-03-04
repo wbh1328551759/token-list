@@ -36,6 +36,15 @@
     },
     {
       "chainId": 1506,
+      "address": "0xE7e312dfC08e060cda1AF38C234AEAcc7A982143",
+      "assetId": 4,
+      "name": "BTC USD(SherpaX)",
+      "symbol": "USB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usb.svg"
+    },
+    {
+      "chainId": 1506,
       "address": "0x37088186089c7D6BcD556d9A15087DFaE3Ba0C32",
       "assetId":99,
       "name": "SherpaX",
