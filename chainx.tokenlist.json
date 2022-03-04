@@ -33,11 +33,38 @@
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_pcx.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x37088186089c7D6BcD556d9A15087DFaE3Ba0C32",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_busd.png"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x935CC842f220CF3A7D10DA1c99F01B1A6894F7C5",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdc.png"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x4B53739D798EF0BEa5607c254336b40a93c75b52",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdt.png"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 0
+    "minor": 2,
+    "patch": 1
   }
 }
