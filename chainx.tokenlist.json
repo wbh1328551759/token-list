@@ -73,7 +73,7 @@
     {
       "chainId": 1506,
       "address": "0xb513E3Cf3BD0CcFfB02Aefbc4794df3D01aB2515",
-      "assetId":99,
+      "assetId":6,
       "name": "Kusama",
       "symbol": "KSM",
       "decimals": 12,
@@ -82,7 +82,7 @@
     {
       "chainId": 1506,
       "address": "0x0F5d9Ac5833C4d089097Fe2eAbBE546b9f10c422",
-      "assetId":99,
+      "assetId":5,
       "name": "Polkadot",
       "symbol": "DOT",
       "decimals": 10,
@@ -91,7 +91,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 4,
+    "minor": 6,
     "patch": 1
   }
 }
