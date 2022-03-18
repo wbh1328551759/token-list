@@ -45,6 +45,15 @@
     },
     {
       "chainId": 1506,
+      "address": "0xF02c1292f3cabf203d6Ae0b8c85D679B2D47001c",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_bnb.png"
+    },
+    {
+      "chainId": 1506,
       "address": "0x37088186089c7D6BcD556d9A15087DFaE3Ba0C32",
       "assetId":99,
       "name": "SherpaX",
@@ -91,7 +100,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 1
   }
 }
