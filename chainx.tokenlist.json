@@ -9,21 +9,21 @@
   "tokens": [
     {
       "chainId": 1506,
+      "address": "0x901D113C77a5e6D07e01b4Fa2569A3Bd3eC18970",
+      "assetId": 0,
+      "name": "SherpaX",
+      "symbol": "xBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_xbtc.svg"
+    },
+    {
+      "chainId": 1506,
       "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
       "assetId": 1,
       "name": "SherpaX",
       "symbol": "sBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_sbtc.svg"
-    },
-    {
-      "chainId": 1506,
-      "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
-      "assetId": 3,
-      "name": "SherpaX",
-      "symbol": "MINI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
     },
     {
       "chainId": 1506,
@@ -36,12 +36,39 @@
     },
     {
       "chainId": 1506,
+      "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
+      "assetId": 3,
+      "name": "SherpaX",
+      "symbol": "MINI",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
+    },
+    {
+      "chainId": 1506,
       "address": "0xE7e312dfC08e060cda1AF38C234AEAcc7A982143",
       "assetId": 4,
       "name": "BTC USD(SherpaX)",
       "symbol": "USB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usb.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x0F5d9Ac5833C4d089097Fe2eAbBE546b9f10c422",
+      "assetId":5,
+      "name": "Polkadot",
+      "symbol": "DOT",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_polka_logo.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0xb513E3Cf3BD0CcFfB02Aefbc4794df3D01aB2515",
+      "assetId":6,
+      "name": "Kusama",
+      "symbol": "KSM",
+      "decimals": 12,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_kusama.svg"
     },
     {
       "chainId": 1506,
@@ -78,29 +105,11 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdt.png"
-    },
-    {
-      "chainId": 1506,
-      "address": "0xb513E3Cf3BD0CcFfB02Aefbc4794df3D01aB2515",
-      "assetId":6,
-      "name": "Kusama",
-      "symbol": "KSM",
-      "decimals": 12,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_kusama.svg"
-    },
-    {
-      "chainId": 1506,
-      "address": "0x0F5d9Ac5833C4d089097Fe2eAbBE546b9f10c422",
-      "assetId":5,
-      "name": "Polkadot",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_polka_logo.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 1
   }
 }
