@@ -105,6 +105,15 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdt.png"
+    },
+    {
+      "chainId": 1506,
+      "address": "0xF373b95a00662ed1211948F414b252E56c0fa0C4",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "SO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_so.svg"
     }
   ],
   "version": {
