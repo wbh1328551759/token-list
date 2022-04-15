@@ -14,7 +14,7 @@
       "name": "SherpaX",
       "symbol": "xBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_xbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/xBTC.svg"
     },
     {
       "chainId": 1506,
@@ -23,7 +23,7 @@
       "name": "SherpaX",
       "symbol": "sBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_sbtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/sBTC.svg"
     },
     {
       "chainId": 1506,
@@ -32,7 +32,7 @@
       "name": "SherpaX",
       "symbol": "PCX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_pcx.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
     },
     {
       "chainId": 1506,
@@ -41,7 +41,7 @@
       "name": "SherpaX",
       "symbol": "MINI",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_minix.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/MINI.svg"
     },
     {
       "chainId": 1506,
@@ -50,7 +50,7 @@
       "name": "BTC USD(SherpaX)",
       "symbol": "USB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usb.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USB.svg"
     },
     {
       "chainId": 1506,
@@ -59,7 +59,7 @@
       "name": "Polkadot",
       "symbol": "DOT",
       "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_polka_logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/DOT.svg"
     },
     {
       "chainId": 1506,
@@ -68,7 +68,7 @@
       "name": "Kusama",
       "symbol": "KSM",
       "decimals": 12,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_kusama.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
     },
     {
       "chainId": 1506,
@@ -77,7 +77,7 @@
       "name": "SherpaX",
       "symbol": "BNB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_bnb.png"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BNB.svg"
     },
     {
       "chainId": 1506,
@@ -86,7 +86,7 @@
       "name": "SherpaX",
       "symbol": "BUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_busd.png"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BUSD.svg"
     },
     {
       "chainId": 1506,
@@ -95,7 +95,7 @@
       "name": "SherpaX",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDC.svg"
     },
     {
       "chainId": 1506,
@@ -104,12 +104,12 @@
       "name": "SherpaX",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDT.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 9,
+    "minor": 10,
     "patch": 1
   }
 }
