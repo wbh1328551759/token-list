@@ -12,9 +12,9 @@
       "address": "0x901D113C77a5e6D07e01b4Fa2569A3Bd3eC18970",
       "assetId": 0,
       "name": "SherpaX",
-      "symbol": "xBTC",
+      "symbol": "XBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/xBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/XBTC.svg"
     },
     {
       "chainId": 1506,
@@ -105,11 +105,20 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDT.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0xF373b95a00662ed1211948F414b252E56c0fa0C4",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "SO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/SO.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 10,
+    "minor": 12,
     "patch": 1
   }
 }
