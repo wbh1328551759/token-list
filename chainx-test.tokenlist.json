@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 1507,
-      "address": "0x901D113C77a5e6D07e01b4Fa2569A3Bd3eC18970",
+      "address": "0xa0fdf025240860cd22e7afcdae461bcaf5b177eb",
       "assetId": 0,
       "name": "SherpaX",
       "symbol": "XBTC",
@@ -18,7 +18,7 @@
     },
     {
       "chainId": 1507,
-      "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
+      "address": "0x4107c4f5bec80196d0F2F975473984Fd40a7214D",
       "assetId": 1,
       "name": "SherpaX",
       "symbol": "sBTC",
@@ -27,7 +27,7 @@
     },
     {
       "chainId": 1507,
-      "address": "0xa10AF02fD7eD3B5FF107B57bB1068a3f54BcAE92",
+      "address": "0x36821e19D3E5A3172A99A509087b64D72e7ADf58",
       "assetId": 2,
       "name": "SherpaX",
       "symbol": "PCX",
@@ -36,7 +36,7 @@
     },
     {
       "chainId": 1507,
-      "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
+      "address": "0xf3607524cAB05762cB5F0cAb17e4cA3A0F0b4E87",
       "assetId": 3,
       "name": "SherpaX",
       "symbol": "MINI",
@@ -45,16 +45,7 @@
     },
     {
       "chainId": 1507,
-      "address": "0xE7e312dfC08e060cda1AF38C234AEAcc7A982143",
-      "assetId": 4,
-      "name": "BTC USD(SherpaX)",
-      "symbol": "USB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USB.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x0F5d9Ac5833C4d089097Fe2eAbBE546b9f10c422",
+      "address": "0x0000156C9950bab16A00a8638e6ca9a6B71A46A1",
       "assetId":5,
       "name": "Polkadot",
       "symbol": "DOT",
@@ -63,62 +54,17 @@
     },
     {
       "chainId": 1507,
-      "address": "0xb513E3Cf3BD0CcFfB02Aefbc4794df3D01aB2515",
+      "address": "0x57a6b6F0B4382d7b6437C7a964F1415Ac0daa3f3",
       "assetId":6,
       "name": "Kusama",
       "symbol": "KSM",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0xF02c1292f3cabf203d6Ae0b8c85D679B2D47001c",
-      "assetId":99,
-      "name": "SherpaX",
-      "symbol": "BNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BNB.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x37088186089c7D6BcD556d9A15087DFaE3Ba0C32",
-      "assetId":99,
-      "name": "SherpaX",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BUSD.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x935CC842f220CF3A7D10DA1c99F01B1A6894F7C5",
-      "assetId":99,
-      "name": "SherpaX",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDC.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x4B53739D798EF0BEa5607c254336b40a93c75b52",
-      "assetId":99,
-      "name": "SherpaX",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDT.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0xF373b95a00662ed1211948F414b252E56c0fa0C4",
-      "assetId":99,
-      "name": "SherpaX",
-      "symbol": "SO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/SO.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 1
   }
 }
