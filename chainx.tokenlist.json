@@ -11,7 +11,7 @@
       "chainId": 1506,
       "address": "0x901D113C77a5e6D07e01b4Fa2569A3Bd3eC18970",
       "assetId": 0,
-      "name": "SherpaX",
+      "name": "ChainX",
       "symbol": "XBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/XBTC.svg"
@@ -29,7 +29,7 @@
       "chainId": 1506,
       "address": "0xa10AF02fD7eD3B5FF107B57bB1068a3f54BcAE92",
       "assetId": 2,
-      "name": "SherpaX",
+      "name": "ChainX",
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
@@ -38,7 +38,7 @@
       "chainId": 1506,
       "address": "0x91AAC463B5473BDe2Fdd910f09101ed687BCB97A",
       "assetId": 3,
-      "name": "SherpaX",
+      "name": "MiniX",
       "symbol": "MINI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/MINI.svg"
@@ -47,7 +47,7 @@
       "chainId": 1506,
       "address": "0xE7e312dfC08e060cda1AF38C234AEAcc7A982143",
       "assetId": 4,
-      "name": "BTC USD(SherpaX)",
+      "name": "SherpaX",
       "symbol": "USB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USB.svg"
@@ -74,7 +74,7 @@
       "chainId": 1506,
       "address": "0xF02c1292f3cabf203d6Ae0b8c85D679B2D47001c",
       "assetId":99,
-      "name": "SherpaX",
+      "name": "Binance Smart Chain",
       "symbol": "BNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BNB.svg"
@@ -83,7 +83,7 @@
       "chainId": 1506,
       "address": "0x37088186089c7D6BcD556d9A15087DFaE3Ba0C32",
       "assetId":99,
-      "name": "SherpaX",
+      "name": "Binance Smart Chain",
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/BUSD.svg"
@@ -92,7 +92,7 @@
       "chainId": 1506,
       "address": "0x935CC842f220CF3A7D10DA1c99F01B1A6894F7C5",
       "assetId":99,
-      "name": "SherpaX",
+      "name": "Binance Smart Chain",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDC.svg"
@@ -101,7 +101,7 @@
       "chainId": 1506,
       "address": "0x4B53739D798EF0BEa5607c254336b40a93c75b52",
       "assetId":99,
-      "name": "SherpaX",
+      "name": "Binance Smart Chain",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/USDT.svg"
@@ -118,7 +118,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 12,
+    "minor": 13,
     "patch": 1
   }
 }
