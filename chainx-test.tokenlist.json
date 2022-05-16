@@ -10,7 +10,7 @@
     {
       "chainId": 1507,
       "address": "0xa0fdf025240860cd22e7afcdae461bcaf5b177eb",
-      "assetId": 0,
+      "assetId": 66,
       "name": "SherpaX",
       "symbol": "XBTC",
       "decimals": 8,
@@ -64,7 +64,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }

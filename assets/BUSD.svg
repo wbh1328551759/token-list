@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>icon_busd</title>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="2.0改版" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="token-list" transform="translate(-170.000000, -27.000000)">
             <g id="icon_busd" transform="translate(170.417152, 27.000000)">
-                <circle id="椭圆形" fill="#F8D33A" fill-rule="nonzero" cx="12" cy="12" r="12"></circle>
+                <circle id="椭圆形" stroke="#EDEEF2" fill="#F8D33A" fill-rule="nonzero" cx="12" cy="12" r="11.5"></circle>
                 <path d="M6.89291429,8.95201143 L12.0049143,3.83998857 L14.0432,5.87828571 L8.9312,10.99032 L6.89291429,8.95201143 Z M6.89657143,15.0606857 L15.0660571,6.89122286 L17.1043429,8.92952 L8.93485714,17.0989714 L6.89657143,15.0606857 Z M18.1214857,9.95236571 L9.952,18.1218286 L11.9902857,20.1601143 L20.1597714,11.9906286 L18.1214857,9.95236571 Z M3.84,12.0043429 L5.87828571,9.966 L7.91657143,12.0043429 L5.87828571,14.0426286 L3.84,12.0043429 Z" id="形状" fill="#2B2F36"></path>
             </g>
         </g>
