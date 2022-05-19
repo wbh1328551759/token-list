@@ -20,7 +20,7 @@
       "chainId": 1506,
       "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
       "assetId": 1,
-      "name": "SherpaX",
+      "name": "Bitcoin Signet",
       "symbol": "sBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/sBTC.svg"
@@ -118,7 +118,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   }
 }
