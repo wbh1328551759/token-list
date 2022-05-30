@@ -8,13 +8,13 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1506,
-      "address": "0xa10AF02fD7eD3B5FF107B57bB1068a3f54BcAE92",
+      "chainId": 1501,
+      "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
       "assetId": 2,
-      "name": "ChainX",
-      "symbol": "PCX",
+      "name": "XBTC",
+      "symbol": "XBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/XBTC.svg"
     }
   ],
   "version": {
