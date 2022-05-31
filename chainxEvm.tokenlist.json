@@ -10,8 +10,9 @@
     {
       "chainId": 1501,
       "address": "0xc91a8e500E814990b06BDb4fC10745124fdBE748",
-      "assetId": 2,
-      "name": "XBTC",
+      "assetId": 1,
+      "isXAssets": true,
+      "name": "ChainX",
       "symbol": "XBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/XBTC.svg"
@@ -19,7 +20,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   }
 }
