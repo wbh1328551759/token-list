@@ -15,7 +15,7 @@
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
-    },
+    }
   ],
   "version": {
     "major": 1,
