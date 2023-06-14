@@ -8,63 +8,18 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1507,
-      "address": "0xa0fdf025240860cd22e7afcdae461bcaf5b177eb",
-      "assetId": 66,
-      "name": "SherpaX",
-      "symbol": "XBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/XBTC.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x4107c4f5bec80196d0F2F975473984Fd40a7214D",
+      "chainId": 1502,
+      "address": "0xb9228839eb3403526d2b41AaE73C95bBf31d7226",
       "assetId": 1,
-      "name": "SherpaX",
-      "symbol": "sBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/sBTC.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x36821e19D3E5A3172A99A509087b64D72e7ADf58",
-      "assetId": 2,
-      "name": "SherpaX",
+      "name": "ChainX",
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
     },
-    {
-      "chainId": 1507,
-      "address": "0xf3607524cAB05762cB5F0cAb17e4cA3A0F0b4E87",
-      "assetId": 3,
-      "name": "SherpaX",
-      "symbol": "MINI",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/MINI.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x0000156C9950bab16A00a8638e6ca9a6B71A46A1",
-      "assetId":5,
-      "name": "Polkadot",
-      "symbol": "DOT",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/DOT.svg"
-    },
-    {
-      "chainId": 1507,
-      "address": "0x57a6b6F0B4382d7b6437C7a964F1415Ac0daa3f3",
-      "assetId":6,
-      "name": "Kusama",
-      "symbol": "KSM",
-      "decimals": 12,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
-    }
   ],
   "version": {
-    "major": 2,
-    "minor": 2,
-    "patch": 1
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
 }
