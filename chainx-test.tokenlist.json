@@ -22,7 +22,7 @@
       "assetId": 1,
       "name": "ChainX",
       "symbol": "XBTC",
-      "decimals": 0,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
     }
   ],
