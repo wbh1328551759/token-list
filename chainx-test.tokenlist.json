@@ -15,10 +15,19 @@
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
+    },
+    {
+      "chainId": 1501,
+      "address": "0xDAE4Db475ACA613a5e2DC5fC304dA7e962B3cEaD",
+      "assetId": 1,
+      "name": "ChainX",
+      "symbol": "XBTC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
     }
   ],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 1
   }
