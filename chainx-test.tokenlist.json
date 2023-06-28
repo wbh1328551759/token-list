@@ -26,8 +26,113 @@
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/KSM.svg"
     }
   ],
+  "bridgeTokens": {
+    "bitcoinTokenList": [
+      {
+        "type": "token",
+        "symbol": "BTC"
+      },
+      {
+        "type": "inscription",
+        "symbol": "ORDI"
+      },
+      {
+        "type": "inscription",
+        "symbol": "SATS"
+      },
+      {
+        "type": "inscription",
+        "symbol": "OXBT"
+      },
+      {
+        "type": "inscription",
+        "symbol": "BTOC"
+      },
+      {
+        "type": "inscription",
+        "symbol": "MXRC"
+      },
+      {
+        "type": "inscription",
+        "symbol": "ZBIT"
+      },
+      {
+        "type": "inscription",
+        "symbol": "VMPX"
+      },
+      {
+        "type": "inscription",
+        "symbol": "MOON"
+      },
+      {
+        "type": "inscription",
+        "symbol": "MEME"
+      },
+      {
+        "type": "inscription",
+        "symbol": "BANK"
+      }
+    ],
+    "chainxTokenList": [
+        {
+          "type": "token",
+          "symbol": "BTC",
+          "address": "0x0000000000000000000000000000000000000000"
+        },
+        {
+          "symbol": "ORDI",
+          "type": "inscription",
+          "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48"
+        },
+        {
+          "symbol": "SATS",
+          "type": "inscription",
+          "address": "0x57b541e974f04ef032735508c469341f6cdc4e61"
+        },
+        {
+          "symbol": "OXBT",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "BTOC",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "MXRC",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "ZBIT",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "VMPX",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "MOON",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "MEME",
+          "type": "inscription",
+          "address": ""
+        },
+        {
+          "symbol": "BANK",
+          "type": "inscription",
+          "address": ""
+        }
+    ]
+  },
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 1
   }
