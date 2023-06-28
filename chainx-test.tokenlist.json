@@ -11,7 +11,7 @@
       "chainId": 1501,
       "address": "0xf3607524cAB05762cB5F0cAb17e4cA3A0F0b4E87",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
@@ -20,7 +20,7 @@
       "chainId": 1501,
       "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "ORDI",
       "decimals": 0,
       "logoURI": ""
@@ -29,7 +29,7 @@
       "chainId": 1501,
       "address": "0x57b541e974f04ef032735508c469341f6cdc4e61",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "SATS",
       "decimals": 0,
       "logoURI": ""
@@ -38,7 +38,7 @@
       "chainId": 1501,
       "address": "0xd6b437f102be1140968b539cc487b24ef57513b8",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "OXBT",
       "decimals": 0,
       "logoURI": ""
@@ -47,7 +47,7 @@
       "chainId": 1501,
       "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "BTOC",
       "decimals": 0,
       "logoURI": ""
@@ -56,7 +56,7 @@
       "chainId": 1501,
       "address": "0x50e61862727a1669337f85b1c2e53740c84c608e",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "MXRC",
       "decimals": 0,
       "logoURI": ""
@@ -65,7 +65,7 @@
       "chainId": 1501,
       "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "ZBIT",
       "decimals": 0,
       "logoURI": ""
@@ -74,7 +74,7 @@
       "chainId": 1501,
       "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "VMPX",
       "decimals": 0,
       "logoURI": ""
@@ -83,7 +83,7 @@
       "chainId": 1501,
       "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "MOON",
       "decimals": 0,
       "logoURI": ""
@@ -92,7 +92,7 @@
       "chainId": 1501,
       "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "MEME",
       "decimals": 0,
       "logoURI": ""
@@ -101,7 +101,7 @@
       "chainId": 1501,
       "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9",
       "assetId": 1,
-      "name": "ChainX",
+      "name": "BEVM",
       "symbol": "BANK",
       "decimals": 0,
       "logoURI": ""
