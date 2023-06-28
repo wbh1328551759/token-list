@@ -92,42 +92,42 @@
         {
           "symbol": "OXBT",
           "type": "inscription",
-          "address": ""
+          "address": "0xd6b437f102be1140968b539cc487b24ef57513b8"
         },
         {
           "symbol": "BTOC",
           "type": "inscription",
-          "address": ""
+          "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de"
         },
         {
           "symbol": "MXRC",
           "type": "inscription",
-          "address": ""
+          "address": "0x50e61862727a1669337f85b1c2e53740c84c608e"
         },
         {
           "symbol": "ZBIT",
           "type": "inscription",
-          "address": ""
+          "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3"
         },
         {
           "symbol": "VMPX",
           "type": "inscription",
-          "address": ""
+          "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819"
         },
         {
           "symbol": "MOON",
           "type": "inscription",
-          "address": ""
+          "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef"
         },
         {
           "symbol": "MEME",
           "type": "inscription",
-          "address": ""
+          "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b"
         },
         {
           "symbol": "BANK",
           "type": "inscription",
-          "address": ""
+          "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9"
         }
     ]
   },
