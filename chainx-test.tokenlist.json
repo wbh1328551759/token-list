@@ -107,113 +107,76 @@
       "logoURI": ""
     }
   ],
-  "bridgeTokens": {
-    "bitcoinTokenList": [
-      {
-        "type": "token",
-        "symbol": "BTC"
-      },
-      {
-        "type": "inscription",
-        "symbol": "ORDI"
-      },
-      {
-        "type": "inscription",
-        "symbol": "SATS"
-      },
-      {
-        "type": "inscription",
-        "symbol": "OXBT"
-      },
-      {
-        "type": "inscription",
-        "symbol": "BTOC"
-      },
-      {
-        "type": "inscription",
-        "symbol": "MXRC"
-      },
-      {
-        "type": "inscription",
-        "symbol": "ZBIT"
-      },
-      {
-        "type": "inscription",
-        "symbol": "VMPX"
-      },
-      {
-        "type": "inscription",
-        "symbol": "MOON"
-      },
-      {
-        "type": "inscription",
-        "symbol": "MEME"
-      },
-      {
-        "type": "inscription",
-        "symbol": "BANK"
-      }
-    ],
-    "chainxTokenList": [
-        {
-          "type": "token",
-          "symbol": "BTC",
-          "address": "0x0000000000000000000000000000000000000000"
-        },
-        {
-          "symbol": "ORDI",
-          "type": "inscription",
-          "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48"
-        },
-        {
-          "symbol": "SATS",
-          "type": "inscription",
-          "address": "0x57b541e974f04ef032735508c469341f6cdc4e61"
-        },
-        {
-          "symbol": "OXBT",
-          "type": "inscription",
-          "address": "0xd6b437f102be1140968b539cc487b24ef57513b8"
-        },
-        {
-          "symbol": "BTOC",
-          "type": "inscription",
-          "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de"
-        },
-        {
-          "symbol": "MXRC",
-          "type": "inscription",
-          "address": "0x50e61862727a1669337f85b1c2e53740c84c608e"
-        },
-        {
-          "symbol": "ZBIT",
-          "type": "inscription",
-          "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3"
-        },
-        {
-          "symbol": "VMPX",
-          "type": "inscription",
-          "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819"
-        },
-        {
-          "symbol": "MOON",
-          "type": "inscription",
-          "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef"
-        },
-        {
-          "symbol": "MEME",
-          "type": "inscription",
-          "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b"
-        },
-        {
-          "symbol": "BANK",
-          "type": "inscription",
-          "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9"
-        }
-    ]
-  },
+  "bridgeTokens": [
+    {
+      "type": "token",
+      "symbol": "BTC",
+      "address": "0x0000000000000000000000000000000000000000",
+      "tick": ""
+    },
+    {
+      "symbol": "ORDI",
+      "type": "inscription",
+      "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48",
+      "tick": "ordi"
+    },
+    {
+      "symbol": "SATS",
+      "type": "inscription",
+      "address": "0x57b541e974f04ef032735508c469341f6cdc4e61",
+      "tick": "sats"
+    },
+    {
+      "symbol": "OXBT",
+      "type": "inscription",
+      "address": "0xd6b437f102be1140968b539cc487b24ef57513b8",
+      "tick": "oxbt"
+    },
+    {
+      "symbol": "BTOC",
+      "type": "inscription",
+      "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de",
+      "tick": "btoc"
+    },
+    {
+      "symbol": "MXRC",
+      "type": "inscription",
+      "address": "0x50e61862727a1669337f85b1c2e53740c84c608e",
+      "tick": "mxrc"
+    },
+    {
+      "symbol": "ZBIT",
+      "type": "inscription",
+      "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3",
+      "tick": "zbit"
+    },
+    {
+      "symbol": "VMPX",
+      "type": "inscription",
+      "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819",
+      "tick": "vmpx"
+    },
+    {
+      "symbol": "MOON",
+      "type": "inscription",
+      "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef",
+      "tick": "moon"
+    },
+    {
+      "symbol": "MEME",
+      "type": "inscription",
+      "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b",
+      "tick": "meme"
+    },
+    {
+      "symbol": "BANK",
+      "type": "inscription",
+      "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9",
+      "tick": "bank"
+    }
+  ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 1
   }
